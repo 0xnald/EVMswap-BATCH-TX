@@ -10,8 +10,10 @@
 
 ➡️Use this command to run
 
+```
 chmod +x script.sh
-
+```
+```
 ./script.sh
-
+```
 ✅Done
