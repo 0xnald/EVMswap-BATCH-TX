@@ -1,19 +1,22 @@
 # EVMswapTX(BATCH)
 
-➡️For all EVM BATCH Swap transactions
-
-➡️Copy all the codes from script.sh
-
 ➡️Open [Codespace](https://github.com/codespaces) or Gitpod
 
-➡️Create a new fill and name it  " script.sh ", also paste all those copied code in this file
-
-➡️Use this command to run
+➡️Enter this command
 
 ```
-chmod +x script.sh
+wget https://raw.githubusercontent.com/Reggiehub/EVMswap-BATCH-TX/main/script.sh -O script.sh && chmod +x script.sh && ./script.sh
 ```
-```
-./script.sh
-```
-✅Done
+➡️Enter RPC URL of the network:
+
+➡️Enter private key:
+
+➡️Enter contract address:
+
+➡️Enter transaction data (in hex):
+
+➡️Enter gas limit:
+
+➡️Enter gas price (in gwei):
+
+➡️Enter number of transactions to send:
