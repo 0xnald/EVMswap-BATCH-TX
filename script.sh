@@ -86,5 +86,5 @@ NODE_PATH=$(npm root -g):$(pwd)/node_modules node $temp_node_file
 
 rm $temp_node_file
 echo
-echo_blue_bold "Follow @iam_reggiehub on X for more guide like this"
+echo_blue_bold "Follow @0xnald on X for more guide like this"
 echo
