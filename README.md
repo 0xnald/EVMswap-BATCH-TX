@@ -5,7 +5,7 @@
 ➡️Enter this command
 
 ```
-wget https://raw.githubusercontent.com/Reggiehub/EVMswap-BATCH-TX/main/script.sh -O script.sh && chmod +x script.sh && ./script.sh
+wget https://raw.githubusercontent.com/0xnald/EVMswap-BATCH-TX/main/script.sh -O script.sh && chmod +x script.sh && ./script.sh
 ```
 ➡️Enter RPC URL of the network:
 
